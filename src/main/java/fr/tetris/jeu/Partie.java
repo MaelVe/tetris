@@ -6,5 +6,5 @@ public class Partie {
 	private int temps;
 	private int score;
 	private int nbPiece;
-	eqrfe
+	
 }
