@@ -2,9 +2,18 @@ package fr.tetris.personne;
 
 public class Personne {
 
+	private boolean isAdmin;
 	private String userName;
 	private String password;
 	private int id;
+	
+	public boolean isAdmin() {
+		return isAdmin;
+	}
+
+	public void setAdmin(boolean isAdmin) {
+		this.isAdmin = isAdmin;
+	}
 	
 	public String getUserName() {
 		return userName;

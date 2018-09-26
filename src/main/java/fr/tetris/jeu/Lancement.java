@@ -8,9 +8,6 @@ public class Lancement {
 
 	}
 	
-	// CE PROJET DOIT ETRE WEB
-	
-	
 	public static void Inscription() {
 		System.out.println("Rentrez votre ");
 	}
